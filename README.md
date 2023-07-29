@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @eren46king
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning to Code
+- 💞️ I’m looking to collaborate on Coding a Huge Project
+- 📫 How to reach me: pinaryanar31@gmail.com
+- 👨‍💻 How much i know the Coding Languages: HTML(%99) Css(%95) Python(%10) Javascript(%2) Java(%00.1) C++(%000000.1) C#(%0)
